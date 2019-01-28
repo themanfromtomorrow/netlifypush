@@ -1,0 +1,6 @@
+<script src="http://cufon.shoqolate.com/js/cufon-yui.js" type="text/javascript"></script>
+<script src="universal-accreditation.cufonfonts.js" type="text/javascript"></script>
+<script type="text/javascript">
+Cufon.replace('.universal_accreditation_italic', { fontFamily: 'Universal Accreditation Italic', hover: true }); 
+Cufon.replace('.universal_accreditation', { fontFamily: 'Universal Accreditation', hover: true }); 
+</script>
