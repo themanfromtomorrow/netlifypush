@@ -1,2 +1,0 @@
-# netlifypush
-site
